@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2023-05-01T10:30:00Z",
+    "action": "Login",
+    "details": "User john_doe logged in"
+  },
+  {
+    "timestamp": "2023-05-01T10:35:00Z",
+    "action": "Payment",
+    "details": "Payment of 100.50 from john_doe to jane_smith"
+  },
+  {
+    "timestamp": "2023-05-01T11:00:00Z",
+    "action": "Login",
+    "details": "User bob_johnson logged in"
+  },
+  {
+    "timestamp": "2023-05-01T11:05:00Z",
+    "action": "Payment",
+    "details": "Payment of 75.25 from bob_johnson to alice_williams"
+  },
+  {
+    "timestamp": "2023-05-01T11:30:00Z",
+    "action": "Logout",
+    "details": "User john_doe logged out"
+  },
+  {
+    "timestamp": "2023-05-01T12:00:00Z",
+    "action": "Login",
+    "details": "User charlie_brown logged in"
+  },
+  {
+    "timestamp": "2023-05-01T12:05:00Z",
+    "action": "Payment",
+    "details": "Payment of 150.75 from charlie_brown to bob_johnson"
+  },
+  {
+    "timestamp": "2023-05-01T12:30:00Z",
+    "action": "Logout",
+    "details": "User charlie_brown logged out"
+  }
+]
